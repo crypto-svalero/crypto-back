@@ -1,9 +1,12 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace CryptoApi.Domain
 {
 	public class Product
 	{
-		public int Id { get; set; }
+        [Key]
+        public int Id { get; set; }
 		public string Name { get; set; }
 		public int Value { get; set; }
 		public string Image { get; set; }
