@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApi", "CryptoApi\CryptoApi.csproj", "{0251694A-49BF-4132-BB8D-DF64B82FBC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0251694A-49BF-4132-BB8D-DF64B82FBC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0251694A-49BF-4132-BB8D-DF64B82FBC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0251694A-49BF-4132-BB8D-DF64B82FBC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0251694A-49BF-4132-BB8D-DF64B82FBC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84BA417-13F9-48FE-B1D6-F26F4620AE0E}
+	EndGlobalSection
+EndGlobal
