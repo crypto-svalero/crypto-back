@@ -1,2 +1,2 @@
-# crypto-back
-CryptoApi
+# Crypto App - Back-end
+API for the Crypto App made with .NET
